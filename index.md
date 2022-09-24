@@ -45,6 +45,7 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day28-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-308)
 [![Daily Report](https://img.shields.io/badge/Day29-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-309)
 [![Daily Report](https://img.shields.io/badge/Day30-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-310)
+<br><br>
 [![Daily Report](https://img.shields.io/badge/Day31-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-311)
 [![Daily Report](https://img.shields.io/badge/Day32-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-312)
 [![Daily Report](https://img.shields.io/badge/Day33-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-313)
@@ -54,7 +55,7 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day37-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-317)
 [![Daily Report](https://img.shields.io/badge/Day38-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-318)
 [![Daily Report](https://img.shields.io/badge/Day39-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-319)
-[![Daily Report](https://img.shields.io/badge/Day30-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-320)
+[![Daily Report](https://img.shields.io/badge/Day40-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-320)
 <br><br>
 
 ### **Course  - Frontend**
