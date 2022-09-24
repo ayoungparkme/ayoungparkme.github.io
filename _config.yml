@@ -1,6 +1,6 @@
-title: Leaf Blog
+title: AYoung Park
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+# theme: jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
@@ -12,6 +12,13 @@ social:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ 
+# math latex
+markdown : kramdown
+highlighter : rouge
+lsi : false
+exceprpt_separator : "\n\n"
+incremental : false
 
 ### comments & analytics
 hyvor_talk_website_id: 14
