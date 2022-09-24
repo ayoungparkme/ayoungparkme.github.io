@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-[![Velog Badge](http://img.shields.io/badge/Velog-20c997?style=flat&link=https://velog.io/@ay_park)](https://velog.io/@ay_park))
+[![Velog Badge](http://img.shields.io/badge/Velog-20c997?style=flat&link=https://velog.io/@ay_park)](https://velog.io/@ay_park)
 [![Github Badge](https://img.shields.io/badge/Github-161c22?style=flat&logo=github&link=https://github.com/ayoungparkme/)](https://github.com/ayoungparkme/)
 # **Today I Learned**
 <br>
