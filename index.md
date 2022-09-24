@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@ay_park)](https://velog.io/@ay_park))
+[![Velog Badge](http://img.shields.io/badge/Velog-20c997?style=flat&link=https://velog.io/@ay_park)](https://velog.io/@ay_park))
 [![Github Badge](https://img.shields.io/badge/Github-161c22?style=flat&logo=github&link=https://github.com/ayoungparkme/)](https://github.com/ayoungparkme/)
 # **Today I Learned**
 <br>
@@ -21,6 +21,7 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day08-gold?style=flat)](https://philgineer.github.io/boostcamp-408)
 [![Daily Report](https://img.shields.io/badge/Day09-gold?style=flat)](https://philgineer.github.io/boostcamp-409)
 [![Daily Report](https://img.shields.io/badge/Day10-gold?style=flat)](https://philgineer.github.io/boostcamp-410)
+<br><br>
 [![Daily Report](https://img.shields.io/badge/Day11-gold?style=flat)](https://philgineer.github.io/boostcamp-411)
 [![Daily Report](https://img.shields.io/badge/Day12-gold?style=flat)](https://philgineer.github.io/boostcamp-412)
 [![Daily Report](https://img.shields.io/badge/Day13-gold?style=flat)](https://philgineer.github.io/boostcamp-413)
@@ -76,8 +77,6 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day13-yellow?style=flat)](https://philgineer.github.io/boostcamp-013)
 [![Daily Report](https://img.shields.io/badge/Day14-green?style=flat)](https://philgineer.github.io/boostcamp-014)
 [![Daily Report](https://img.shields.io/badge/Day15-blue?style=flat)](https://philgineer.github.io/boostcamp-015)
-<br><br>
-
 [![Daily Report](https://img.shields.io/badge/Day16-red?style=flat)](https://philgineer.github.io/boostcamp-016)
 [![Daily Report](https://img.shields.io/badge/Day17-orange?style=flat)](https://philgineer.github.io/boostcamp-017)
 [![Daily Report](https://img.shields.io/badge/Day18-yellow?style=flat)](https://philgineer.github.io/boostcamp-018)
