@@ -8,7 +8,7 @@ author_profile: true
 # **Today I Learned**
 <br>
 
-### **Course 1 - Web Publisher **
+### **Course 1 - Web Publisher**
 <span style="color:grey">2022.09.26 ~ 2022.11.22</span>
 
 [![Daily Report](https://img.shields.io/badge/Day01-gold?style=flat)](https://philgineer.github.io/boostcamp-401)
@@ -58,7 +58,7 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day40-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-320)
 <br><br>
 
-### **Course  - Frontend**
+### **Course2  - Frontend**
 <span style="color:grey">2022.11.24 ~ 2022.12.28</span>
 
 [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://philgineer.github.io/boostcamp-001)
