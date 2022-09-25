@@ -5,9 +5,9 @@ iconURL: assets/free-icon-pig-4169062.png
 # for a clean URL
 permalink: :slug
 
-social:
-  blog: _velog.io/@ay_park
-  github: ayoungparkme
+# social:
+#   blog: _velog.io/@ay_park
+#   github: ayoungparkme
 
 plugins:
  - jekyll-feed
