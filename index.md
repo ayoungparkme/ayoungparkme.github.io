@@ -5,10 +5,13 @@ author_profile: true
 
 [![Velog Badge](http://img.shields.io/badge/Velog-20c997?style=flat&link=https://velog.io/@ay_park)](https://velog.io/@ay_park)
 [![Github Badge](https://img.shields.io/badge/Github-161c22?style=flat&logo=github&link=https://github.com/ayoungparkme/)](https://github.com/ayoungparkme/)
+
 # **Today I Learned**
+
 <br>
 
 ### **Course 1 - Web Publisher**
+
 <span style="color:grey">2022.09.26 ~ 2022.11.22</span>
 
 [![Daily Report](https://img.shields.io/badge/Day01-gold?style=flat)](https://ayoungparkme.github.io/day01)
@@ -31,10 +34,9 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day17-gold?style=flat)](https://ayoungparkme.github.io/day17)
 [![Daily Report](https://img.shields.io/badge/Day18-gold?style=flat)](https://ayoungparkme.github.io/day18)
 [![Daily Report](https://img.shields.io/badge/Day19-gold?style=flat)](https://ayoungparkme.github.io/day19)
-[![Daily Report](https://img.shields.io/badge/Day20-gold?style=flat)](https://philgineer.github.io/boostcamp-420)
+[![Daily Report](https://img.shields.io/badge/Day20-gold?style=flat)](https://ayoungparkme.github.io/day20)
 <br><br>
 
-    
 [![Daily Report](https://img.shields.io/badge/Day21-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-301)
 [![Daily Report](https://img.shields.io/badge/Day22-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-302)
 [![Daily Report](https://img.shields.io/badge/Day23-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-303)
@@ -58,7 +60,8 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day40-45ADA8?style=flat)](https://philgineer.github.io/boostcamp-320)
 <br><br>
 
-### **Course2  - Frontend**
+### **Course2 - Frontend**
+
 <span style="color:grey">2022.11.24 ~ 2022.12.28</span>
 
 [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://philgineer.github.io/boostcamp-001)
@@ -91,4 +94,3 @@ author_profile: true
 [![Daily Report](https://img.shields.io/badge/Day24-green?style=flat)](https://philgineer.github.io/boostcamp-024)
 [![Daily Report](https://img.shields.io/badge/Day25-blue?style=flat)](https://philgineer.github.io/boostcamp-025)
 <br><br>
-
