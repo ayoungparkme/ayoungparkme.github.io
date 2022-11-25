@@ -64,7 +64,7 @@ author_profile: true
 
 <span style="color:grey">2022.11.24 ~ 2022.12.28</span>
 
-[![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://philgineer.github.io/boostcamp-001)
+[![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://ayoungparkme.github.io/day01)
 [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://philgineer.github.io/boostcamp-002)
 [![Daily Report](https://img.shields.io/badge/Day03-yellow?style=flat)](https://philgineer.github.io/boostcamp-003)
 [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://philgineer.github.io/boostcamp-004)
